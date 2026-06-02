@@ -1,0 +1,21 @@
+https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS
+https://www.coursera.org/professional-certificates/ibm-data-science
+
+1=what is data science
+2=tools for ds
+3=ds methodology
+4=python for ds, ai and development
+5=python project for ds
+6=db and sql for ds w python
+7=data analysis w python --this is hard one
+8=data visualization w python
+9=machine learning w python
+10=applied ds capstone
+11=generative ai: elevate your ds career
+12=data science career guide and interview preparation
+
+
+from Microsoft
+
+https://www.coursera.org/professional-certificates/microsoft-project-management/paidmedia?utm_medium=sem&utm_source=bg&utm_campaign=b2c_namer_microsoft-project-management_microsoft_ftcof_professional-certificates_px_dr_bau_bg_sem_pr_us-ca_en_m_x_24-11_x&campaignid=662927685&adgroupid=1252345079252057&device=c&keyword=project%20management%20certification%20online&matchtype=e&network=a&devicemodel=&adposition=&creativeid=78271697415549&adgroup=b2c_namer_microsoft-project-management_microsoft_px_bau_bg_us-ca_x_x_nb-bd_x_hyb_x_x_professional-certificates_x&querystring=project%20management%20certification%20online&targetid=kwd-78271937755712:loc-190&bidmatchtype=bb&extensionid=&msclkid=04cebc262a7d1f8a82f0d5509307c23d&utm_term=project%20management%20certification%20online&utm_content=b2c_namer_microsoft-project-management_microsoft_px_bau_bg_us-ca_x_x_nb-bd_x_hyb_x_x_professional-certificates_x
+
